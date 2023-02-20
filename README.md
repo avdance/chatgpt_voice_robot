@@ -6,8 +6,9 @@
 总之，这个小项目还是挺酷的。
 
 ## 效果展示
+<img width="989" alt="voice_chat" src="https://user-images.githubusercontent.com/49577129/220062542-cbbb7daf-b8e1-41f1-8b1a-e800d986b1a2.png">
 
-<iframe src="//player.bilibili.com/player.html?aid=779706209&bvid=BV1ty4y1Z7V1&cid=1015866081&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width:100%;height:500px"> </iframe>
+视频地址如下：[【作品】WebRTC+ChatGPT实现语音聊天机器人](https://www.bilibili.com/video/BV1ty4y1Z7V1/?share_source=copy_web&vd_source=b393e4210396ee161923c1d02340e78d)
 
 ## 先决条件
 
