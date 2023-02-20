@@ -7,8 +7,28 @@
 
 ## 效果展示
 <img width="989" alt="voice_chat" src="https://user-images.githubusercontent.com/49577129/220062542-cbbb7daf-b8e1-41f1-8b1a-e800d986b1a2.png">
-
-视频地址如下：[【作品】WebRTC+ChatGPT实现语音聊天机器人](https://www.bilibili.com/video/BV1ty4y1Z7V1/?share_source=copy_web&vd_source=b393e4210396ee161923c1d02340e78d)
+{% raw %}
+ <!-- 引入 flv.js 库 -->
+ 
+ <video id="flv_file" controls autoplay>
+          You Browser doesn't support video tag
+ </video>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/flv.js/1.5.0/flv.min.js"></script>
+ <script>
+            //通过 JavaScript 脚本创建 FLV Player
+            if (flvjs.isSupported()) {
+                var videoElement = document.getElementById('flv_file');
+                var flvPlayer = flvjs.createPlayer({
+                    type: 'flv',
+                    url: 'https://avdancevod.oss-cn-beijing.aliyuncs.com/vodio/killer.flv'
+                });
+                flvPlayer.attachMediaElement(videoElement);
+                flvPlayer.load();
+                flvPlayer.play();
+            }
+ </script>
+ 
+{% endraw %}视频地址如下：[【作品】WebRTC+ChatGPT实现语音聊天机器人](https://www.bilibili.com/video/BV1ty4y1Z7V1/?share_source=copy_web&vd_source=b393e4210396ee161923c1d02340e78d)
 
 ## 先决条件
 
