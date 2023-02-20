@@ -5,7 +5,9 @@
 
 总之，这个小项目还是挺酷的。
 
-
+## 效果展示
+<iframe src="//player.bilibili.com/player.html?bvid=[视频的bvid]&amp;page=[视频的page]" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width:100%;height:500px"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=779706209&bvid=BV1ty4y1Z7V1&cid=1015866081&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 ## 先决条件
 
 ### 已有ChatGPT帐号
