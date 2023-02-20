@@ -54,8 +54,8 @@ npm run build
 
 ## 参考项目
 
-[飞书接入ChatGPT](https://github.com/bestony/ChatGPT-Feishu)
-[微信接入ChatGPT](https://github.com/wangrongding/wechat-bot)（小心微信被封)
+- [飞书接入ChatGPT](https://github.com/bestony/ChatGPT-Feishu)
+- [微信接入ChatGPT](https://github.com/wangrongding/wechat-bot)（小心微信被封)
 
 
 ### Customize configuration
